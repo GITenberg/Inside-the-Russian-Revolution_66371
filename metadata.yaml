@@ -1,0 +1,30 @@
+_repo: Inside-the-Russian-Revolution_66371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dorr, Rheta Childe
+    aliases:
+    - Child, Reta Louise
+    - Childe, Rheta Louise
+    - Dorr, Rheta Louise Childe
+    birthdate: 1866
+    deathdate: 1948
+    gutenberg_agent_id: '4264'
+    url: http://www.gutenberg.org/2009/agents/4264
+    wikipedia: https://en.wikipedia.org/wiki/Rheta_Childe_Dorr
+description: ''
+gutenberg_issued: '2021-09-24'
+identifiers:
+  gutenberg: '66371'
+  lccn: '17031172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Soviet Union'
+- !lcc 'DK'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921 -- Personal narratives'
+- GITenberg
+title: Inside the Russian Revolution
+url: http://www.gutenberg.org/ebooks/66371
